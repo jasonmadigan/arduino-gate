@@ -1,5 +1,4 @@
 // Pins
-#define RADIOPIN 22   // NTX2 TX
 #define GSMBAUD 9600  // TC35 Baud
 #define CUTDOWNPIN 52 // To Relay
 #define GSMGROUND 13
